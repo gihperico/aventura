@@ -1,0 +1,18 @@
+body {
+    background-color:aquamarine;
+    color:black;
+    font-family:"Dancing Script", cursive;
+    font-weight: bold;
+    font-size: 26px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+    }
+
+    button {
+        background-color: rgb(145, 108, 108);
+        color:white;
+        font-family: "Reddit Sans Condensed", sans-serif;
+    }
